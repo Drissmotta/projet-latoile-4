@@ -1,0 +1,151 @@
+.dbz {
+    color: rgb(6, 179, 0);
+    margin-left: 30px;
+}
+
+.dbz2 {
+    margin-right: 30px;
+
+}
+
+.couleur {
+    background: rgb(255, 112, 0);
+    background: linear-gradient(90deg, rgba(255, 112, 0, 1) 0%, rgba(47, 3, 189, 1) 100%);
+
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("assets/goku vegeta.jpg");
+    background-size: cover;
+
+
+}
+
+
+.photo {
+    border: solid blueviolet 2px;
+    height: 400px;
+
+}
+
+.card2 {
+    background-image: url("assets/goku vegeta.jpg");
+    background-size: cover;
+    height: 200px;
+}
+
+h1 {
+    color: rgb(4, 255, 0);
+    margin-bottom: 400px;
+}
+
+.akira {
+    border: solid black 1px;
+    height: 370px;
+    margin-top: 50px;
+}
+
+
+
+.personnages {
+    margin-top: 50px;
+    border: solid black 1px;
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+
+}
+
+h2 {
+    margin-top: 50px;
+    color: orange;
+
+}
+
+.arc1{
+    color: orange;
+    margin-top: 110px;
+}
+
+
+.taille{
+    width: 450px;
+    margin-right: 50px;
+
+    
+    
+}
+
+.arc2{
+color: blueviolet;
+margin-top: 110px;
+
+
+
+}
+
+
+.arc3{
+    color:green;
+    margin-top: 110px;
+}
+
+.arc4{
+    color:pink;
+    margin-top: 110px;
+    
+}
+
+.droite {
+    display: flex;
+}
+
+details {
+    display: flex;
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+    
+    
+}
+
+.p1{
+    margin-top: 40px;
+}
+
+h3{
+    color: orange;
+    
+}
+
+h4{
+    color:blueviolet
+}
+
+h5{
+    color: green;
+}
+
+h6{
+    color: pink;
+}
+
+.tableau{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
